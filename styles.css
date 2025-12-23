@@ -1,0 +1,41 @@
+body {
+    padding: 20px;
+}
+
+.group1 {
+    padding: 30px;
+    border: 2px solid black;
+}
+
+.innnergrp {
+    padding: 10px;
+}
+
+.headingg {
+    font-family: Inter, sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    text-decoration: underline;
+    line-height: 1.2;
+}
+
+.para, li{
+    width: 100%;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Inter, sans-serif;
+}
+
+b {
+    font-style: italic;
+}
+
+.group2 {
+    margin-top: 50px;
+}
+
+.iamg img {
+    max-width: 60%;
+    height: auto;
+    padding: 10px;
+}
