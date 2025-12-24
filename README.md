@@ -1,3 +1,3 @@
 # The-Beagle-Blog
 Just for Practice
-<a href="index.html">Open</a>
+<a href="https://biman-pakhira.github.io/The-Beagle-Blog/">Open</a>
